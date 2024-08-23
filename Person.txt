@@ -1,0 +1,5 @@
+1, John Doe, 35, Male, 123 Main St, Savings, 5000
+2, Jane Smith, 29, Female, 456 Elm St, Checking, 3000
+3, Robert Johnson, 45, Male, 789 Oak St, Savings, 10000
+4, Emily Davis, 37, Female, 321 Pine St, Checking, 2500
+5, Michael Brown, 50, Male, 654 Maple St, Savings, 7500

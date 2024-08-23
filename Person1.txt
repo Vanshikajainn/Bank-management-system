@@ -1,0 +1,5 @@
+6, Alice Wilson, 28, Female, 111 Cedar St, Checking, 1500
+7, James Taylor, 33, Male, 222 Birch St, Savings, 20000
+8, Linda Martinez, 40, Female, 333 Walnut St, Checking, 4000
+9, William Anderson, 52, Male, 444 Fir St, Savings, 30000
+10, Barbara Thomas, 46, Female, 555 Spruce St, Checking, 500
