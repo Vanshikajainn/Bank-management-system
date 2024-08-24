@@ -1,1 +1,1 @@
-# pseudo-bank-system
+# bank-management-system
