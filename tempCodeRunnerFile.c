@@ -759,9 +759,9 @@ void about() {
     gotoxy(48,10);
     printf("!!!ABOUT US!!!");
     gotoxy(32,12);
-    printf("This project has been created by Aman Khadka.");
+    printf("This project has been created by VANSHIKA JAIN.");
     gotoxy(10,13);
-    printf("It is a Simple Bank Management System Project for my 1st Semester based on C programming language.");
+    printf("It is a Simple Bank Management System Project based on C programming language.");
     gotoxy(40, 22);
     printf("Press any key to return back to main menu. ");
     char z = getch();
